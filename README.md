@@ -1,5 +1,4 @@
-Certainly! Here's a refined and well-organized version of your profile:
-# Hello, I'm [Your Name]! 🇺🇸
+# Hello, I'm João Carvalho! 🇺🇸
 
 ## 🚀 Technical Skills
 
@@ -92,8 +91,7 @@ I'm open to new opportunities and collaborations. If you're seeking someone enth
 
 Ensure you replace [Your Name] and the LinkedIn link with your actual details to maintain a professional and authentic profile.
 
-Claro! Aqui está uma versão refinada e bem organizada do seu perfil em português:
-# Olá, sou [Seu Nome]! 🇧🇷
+# Olá, sou João Carvalho! 🇧🇷
 
 ## 🚀 Habilidades Técnicas
 
