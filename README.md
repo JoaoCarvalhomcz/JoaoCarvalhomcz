@@ -89,7 +89,6 @@ Innovation and creativity fuel my passion for technology. I am dedicated to leve
 
 I'm open to new opportunities and collaborations. If you're seeking someone enthusiastic, skilled, and ready to tackle new challenges, feel free to reach out. Let's create something amazing together!
 
-Ensure you replace [Your Name] and the LinkedIn link with your actual details to maintain a professional and authentic profile.
 
 # Olá, sou João Carvalho! 🇧🇷
 
