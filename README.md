@@ -180,6 +180,3 @@ Inovação e criatividade alimentam minha paixão pela tecnologia. Estou dedicad
 ## 🤝 Vamos Colaborar
 
 Estou aberto a novas oportunidades e colaborações. Se você está buscando alguém entusiasmado, habilidoso e pronto para enfrentar novos desafios, sinta-se à vontade para entrar em contato. Vamos criar algo incrível juntos!
-
-Certifique-se de substituir [Seu Nome] e o link do LinkedIn pelos seus detalhes reais para manter um perfil profissional e autêntico.
-
