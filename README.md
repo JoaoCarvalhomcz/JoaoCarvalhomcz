@@ -4,7 +4,7 @@
 
 - **Programming Languages:**
   - **Advanced:** Python, HTML, CSS, JavaScript, SQL
-  - **Intermediate:** Java, C
+  - **good base:** Java, C
 
 - **Frontend Development:**
   - Proficient in Angular and React
@@ -42,35 +42,6 @@
 
 - Currently employed at the Maceió Management Secretariat
 
-## 🎓 Education
-
-### Uniasselvi
-- **Courses Completed:**
-  - Professional Perspectives
-  - Computer Architecture
-  - Career and Success
-  - Scientific Knowledge Production
-  - Emerging Technologies
-  - Software Engineering and Design
-  - Computer Networks Fundamentals
-  - Web System Development Introduction
-  - IT Security
-  - Contemporary Professional Challenges
-  - Logic and Programming Techniques
-  - Creative Entrepreneurship
-  - Databases
-  - Calculus Introduction
-  - Relational Databases
-
-### ADAPTA
-- **Courses Completed:**
-  - Copywriting with AI
-  - AI for Management
-  - AI for Marketing
-  - AI for Content Creation
-  - Mastering Chat GPT
-  - Mastering Images with AI
-
 ## 📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-carvalho-953709232/)
@@ -96,7 +67,7 @@ I'm open to new opportunities and collaborations. If you're seeking someone enth
 
 - **Linguagens de Programação:**
   - **Avançado:** Python, HTML, CSS, JavaScript, SQL
-  - **Intermediário:** Java, C
+  - **Boa base:** Java, C
 
 - **Desenvolvimento Frontend:**
   - Proficiência em Angular e React
@@ -128,40 +99,10 @@ I'm open to new opportunities and collaborations. If you're seeking someone enth
 
 - **Ciência de Dados** na EBAC
 - **Bacharelado em Engenharia de Software** na Uniasselvi
-- **Automação com IA** na ADAPTA
 
 ## 🏢 Experiência Profissional
 
 - Atualmente trabalhando na Secretaria de Gestão de Maceió
-
-## 🎓 Formação Acadêmica
-
-### Uniasselvi
-- **Cursos Concluídos:**
-  - Perspectivas Profissionais
-  - Arquitetura de Computadores
-  - Carreira e Sucesso
-  - Produção de Conhecimento Científico
-  - Tecnologias Emergentes
-  - Engenharia e Design de Software
-  - Fundamentos de Redes de Computadores
-  - Introdução ao Desenvolvimento de Sistemas Web
-  - Segurança da Informação
-  - Desafios Profissionais Contemporâneos
-  - Lógica e Técnicas de Programação
-  - Empreendedorismo Criativo
-  - Bancos de Dados
-  - Introdução ao Cálculo
-  - Bancos de Dados Relacionais
-
-### ADAPTA
-- **Cursos Concluídos:**
-  - Copywriting com IA
-  - IA para Gestão
-  - IA para Marketing
-  - IA para Criação de Conteúdo
-  - Domínio do Chat GPT
-  - Domínio de Imagens com IA
 
 ## 📫 Contato
 
