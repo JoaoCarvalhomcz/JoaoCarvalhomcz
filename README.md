@@ -22,7 +22,7 @@ Estudante de Engenharia de Software e Ciência de Dados com foco em transformar 
 ### 💎 [Log Inside - Consultoria de Dados](link-do-seu-repositorio)
 Projeto focado em arquitetura de dashboards e métricas de negócios. Transformo dados brutos em insights acionáveis utilizando SQL e ferramentas de visualização para otimizar processos comerciais e tomada de decisão.
 
-### 🌬️ [Análise e Modelagem Preditiva de Energia Eólica]([link-do-seu-repositorio](https://github.com/JoaoCarvalhomcz/Previs-o-de-Energia-E-lica)
+### 🌬️ [Análise e Modelagem Preditiva de Energia Eólica](https://github.com/JoaoCarvalhomcz/Previs-o-de-Energia-E-lica)
 Projeto voltado à análise de séries temporais e modelagem preditiva da geração de energia eólica. Utilização de Python e bibliotecas de Machine Learning para estimar capacidade de geração a partir de variáveis climáticas, além de visualização de métricas e eficiência operacional.
 
 ---
