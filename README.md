@@ -34,7 +34,6 @@ Um script avançado de web scraping para coletar cartéis de lutadores e estatí
 
 - **Engenharia de Software** | Uniasselvi
 - **Data Science** | EBAC (Escola Britânica de Artes Criativas e Tecnologia)
-- **Local Guide Level 1** | Google Maps (Contribuição com a comunidade local)
 
 ---
 
@@ -49,8 +48,8 @@ Um script avançado de web scraping para coletar cartéis de lutadores e estatí
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-carvalho-953709232/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovmcarvalh0mcz@gmail.com)
 
 ---
 *"In God we trust, all others must bring data." – W. Edwards Deming*
