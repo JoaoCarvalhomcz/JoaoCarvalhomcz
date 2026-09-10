@@ -37,12 +37,11 @@ Projeto voltado à análise de séries temporais e modelagem preditiva da geraç
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoCarvalhomcz&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoCarvalhomcz&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarvalhomcz&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Linguagens mais usadas" />
 </p>
 
 ---
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-carvalho-953709232/)
