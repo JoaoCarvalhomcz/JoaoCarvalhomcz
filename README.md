@@ -20,13 +20,10 @@ Estudante de Engenharia de Software e Ciência de Dados com foco em transformar 
 ## 📈 Projetos em Destaque
 
 ### 💎 [Log Inside - Consultoria de Dados](link-do-seu-repositorio)
-Projeto focado em arquitetura de dashboards e métricas de negócios. Transformo dados brutos em insights acionáveis utilizando SQL e ferramentas de visualização para otimizar processos comerciais.
+Projeto focado em arquitetura de dashboards e métricas de negócios. Transformo dados brutos em insights acionáveis utilizando SQL e ferramentas de visualização para otimizar processos comerciais e tomada de decisão.
 
-### 🏛️ [Maceió Digital - Automação Pública](link-do-seu-repositorio)
-Desenvolvimento de fluxos automatizados em Python e Power BI para modernizar a administração pública, aumentando a eficiência na gestão de dados governamentais.
-
-### 🥊 [MMA Data Scraper & Predictor](link-do-seu-repositorio)
-Um script avançado de web scraping para coletar cartéis de lutadores e estatísticas de eventos de MMA, visando a construção de modelos preditivos para resultados de lutas.
+### 🌬️ [Análise e Modelagem Preditiva de Energia Eólica]([link-do-seu-repositorio](https://github.com/JoaoCarvalhomcz/Previs-o-de-Energia-E-lica)
+Projeto voltado à análise de séries temporais e modelagem preditiva da geração de energia eólica. Utilização de Python e bibliotecas de Machine Learning para estimar capacidade de geração a partir de variáveis climáticas, além de visualização de métricas e eficiência operacional.
 
 ---
 
